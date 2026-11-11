@@ -1,0 +1,10 @@
+{
+  "title": "ResearchSwarm",
+  "repository": "researchswarm-langgraph-agents",
+  "description": "Evidence-grounded research team using LangGraph Send fan-out, reducers and a bounded writer/critic subgraph.",
+  "demo": "research",
+  "url": "https://github.com/Swaroopfullstack/researchswarm-langgraph-agents",
+  "source_revision": "d4880b602e4748815f0fd0533d4dcb892585e02a",
+  "source_project": "04-researchswarm",
+  "runtime": "vendored self-contained portfolio package"
+}
